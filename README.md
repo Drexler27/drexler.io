@@ -13,7 +13,7 @@
             <section>
                 <div class="profile-section">
                     <img src="drexler.jpg" alt="Drexler S. Pahilagmago" class="profile-photo">
-                    <a style= "text-decoration: none;">Drexler S. Pahilagmago</a></h2>
+                    <a style= "text-decoration: none;" href="https://www.facebook.com/drexler.pahilagmago">Drexler S. Pahilagmago</a></h2>
                     <h2 class="name">Self Introduction </h2>
                 </div>
                 <p class="intro">Hello, my name is Drexler S. Pahilagmago, and I'm a 20-year-old student at Marinduque State College studying information technology. I have a strong interest in technology and how it can change the world. As a student in this area, I'm committed to developing my abilities and knowledge to make a significant contribution to the rapidly changing tech sector. I think we can solve problems in the real world and make people's lives better by being innovative and working together. I'm eager to start this journey of learning and development because I'm thrilled about the prospects that lay ahead.</p>
@@ -57,7 +57,7 @@
             </section>
             <section class="content-section">
                 <h2>Background on Information Technology</h2>
-                <p>As a student i learn with a focus on IT concerning topics like cybersecurity practices, network protocols, system administration, and programming languages. This is a dynamic field that is always evolving, so there's always something new to learn and explore. Furthermore, with technology becoming an increasingly important part of nearly every industry, having a solid understanding of IT can open up a wide range of career. </p>
+                <p>As a student i learn with a focus on IT concerning topics like cybersecurity practices, network protocols, system administration, and programming languages. This is a dynamic field that is always evolving, so there's always something new to learn and explore. Furthermore, with technology becoming an increasingly important part of nearly every industry, having a solid understanding of IT can open up a wide range of career </p>
             </section>
             <section class="content-section">
                 <h2>Applications Used in Studying</h2>
