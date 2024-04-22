@@ -57,7 +57,7 @@
             </section>
             <section class="content-section">
                 <h2>Background on Information Technology</h2>
-                <p>As a student i learn with a focus on IT concerning topics like cybersecurity practices, network protocols, system administration, and programming languages. This is a dynamic field that is always evolving, so there's always something new to learn and explore. Furthermore, with technology becoming an increasingly important part of nearly every industry, having a solid understanding of IT can open up a wide range of career </p>
+                <p>As a student i learn with a focus on IT concerning topics like cybersecurity practices, network protocols, system administration, and programming languages. This is a dynamic field that is always evolving, so there's always something new to learn and explore. Furthermore, with technology becoming an increasingly important part of nearly every industry, having a solid understanding of IT can open up a wide range of career. </p>
             </section>
             <section class="content-section">
                 <h2>Applications Used in Studying</h2>
